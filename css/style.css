@@ -1,0 +1,25 @@
+.timer-container {
+     text-align: center;
+   }
+   
+   .timer {
+     text-align: center;
+     font-size: 2rem;
+     margin-bottom: 20px;
+     justify-content: center;
+   }
+   
+   .buttons button {
+     font-size: 1rem;
+     margin: 0 5px;
+     padding: 15px 20px;
+     justify-content: center;
+   }
+   
+
+   body{
+     background:linear-gradient(90deg, rgb(204, 71, 71), rgb(59, 203, 225), rgb(224, 224, 61), rgb(91, 235, 91), rgb(80, 80, 235),rgb(217, 130, 217));
+     width:500px;
+     height:500px;
+   }
+   
